@@ -1,0 +1,88 @@
+name: Sync licensing inquiry
+description: Request a quote to license CWI music for your project.
+title: "[Inquiry] "
+labels: ["inquiry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in licensing the That Boy Hi Hat catalog.
+        CWI licenses **100% pre-cleared, one-stop** — master and publishing in one agreement.
+        Fill in what you can; the more detail, the faster your quote.
+        Prefer email? Write to **hp@cumulativeweb.com**.
+
+  - type: input
+    id: project
+    attributes:
+      label: Project / production name
+      placeholder: "e.g. Neon Harbor (feature film)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: project-type
+    attributes:
+      label: Project type
+      options:
+        - Film
+        - Television
+        - Advertising / brand campaign
+        - Video game
+        - Trailer
+        - Streaming series
+        - Social / digital campaign
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: media
+    attributes:
+      label: Media & territory
+      description: Where and how the music will be used, and for how long.
+      placeholder: "e.g. Worldwide streaming, 5 years"
+    validations:
+      required: true
+
+  - type: input
+    id: timeline
+    attributes:
+      label: Timeline
+      description: When you need the quote and when the project locks.
+      placeholder: "e.g. Quote by Oct 15, 2026; picture lock Nov 2026"
+    validations:
+      required: true
+
+  - type: textarea
+    id: tracks
+    attributes:
+      label: Track(s) of interest & usage details
+      description: Which tracks, scene/spot description, duration of use.
+      placeholder: "e.g. “Diabolique” — 45s, nightclub scene"
+    validations:
+      required: false
+
+  - type: input
+    id: budget
+    attributes:
+      label: Budget range (optional)
+      description: Optional — helps us quote faster and in range.
+      placeholder: "e.g. $2k–$5k"
+    validations:
+      required: false
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact email
+      placeholder: "you@company.com"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand CWI licenses master and publishing one-stop through Cumulative Web Inc.
+          required: true
