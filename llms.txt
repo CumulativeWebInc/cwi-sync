@@ -1,0 +1,25 @@
+# CWI Sync — One-Stop Licensing
+> One-stop sync licensing for the 24-track That Boy Hi Hat alternative rap catalog — 100% pre-cleared, master + publishing in one agreement.
+
+Inbound licensing funnel for the That Boy Hi Hat catalog. Three one-sheet PDFs (company, artist, Diabolique single), a /license/ inquiry page, and a structured GitHub issue-template inquiry form plus mailto. Inbound only — no outbound solicitation.
+
+## Live
+- App: https://cumulativewebinc.github.io/cwi-sync/
+- Try it: https://cumulativewebinc.github.io/cwi-sync/license/
+
+## Features
+- 3 one-sheet PDFs (reproducible build via tools/build_one_sheets.py)
+- /license/ inquiry funnel page
+- Structured GitHub issue-template inquiry form
+- mailto:hp@cumulativeweb.com freeform route
+- Claim-verification doc tracing every public claim
+
+## Machine-readable
+- license: https://cumulativewebinc.github.io/cwi-sync/license/
+- company_one_sheet: https://cumulativewebinc.github.io/cwi-sync/one-sheets/cwi-sync-company-one-sheet.pdf
+
+## Honest limits
+Inbound inquiries only. Licensing quotes are issued by CWI — the site never auto-issues licenses.
+
+## Provider
+Cumulative Web Inc — hp@cumulativeweb.com

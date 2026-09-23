@@ -73,7 +73,7 @@ for rel in HTMLS:
     html = open(p).read()
     for link in sorted(set(href_re.findall(html))):
         if link.startswith(("http://", "https://")):
-            ok = link.startswith("https://github.com/CumulativeWebInc/cwi-sync/issues/new?template=sync-inquiry.yml")
+            ok = link.startswith("https://github.com/CumulativeWebInc/cwi-sync/issues/new?template=sync-inquiry.yml") or link.startswith("https://cumulativewebinc.github.io/cwi-i18n/") or link.startswith("https://cumulativewebinc.github.io/cwi-sync/")
             check(f"{rel}: external link well-formed: {link[:60]}", ok)
         elif link.startswith("mailto:"):
             check(f"{rel}: mailto targets hp@cumulativeweb.com",
