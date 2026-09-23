@@ -7,14 +7,14 @@
   "media_files": [
     "https://cumulativewebinc.github.io/cwi-sync/brand/logo.jpg"
   ],
-  "caption": "CWI Sync \u2014 One-Stop Licensing \u2014 One-stop sync licensing for the 24-track That Boy Hi Hat alternative rap catalog \u2014 100% pre-cleared, master + publishing in one agreement. Try it: https://cumulativewebinc.github.io/cwi-sync/license/",
+  "caption": "CWI Sync \u2014 One-Stop Licensing \u2014 One-stop sync licensing for the 24-track That Boy Hi Hat alternative rap catalog \u2014 100% pre-cleared, master + publishing in one agreement. Try it: https://cumulativewebinc.github.io/cwi-sync/license",
   "hashtags": [
     "CumulativeWebInc",
     "AgentDeck",
     "AIAgents",
     "OpenSource"
   ],
-  "threads_text": "CWI Sync is live from Cumulative Web Inc: One-stop sync licensing for the 24-track That Boy Hi Hat alternative rap catalog \u2014 100% pre-cleared, master + publishing in one agreement. https://cumulativewebinc.github.io/cwi-sync/license/",
+  "threads_text": "CWI Sync is live from Cumulative Web Inc: One-stop sync licensing for the 24-track That Boy Hi Hat alternative rap catalog \u2014 100% pre-cleared, master + publishing in one agreement. https://cumulativewebinc.github.io/cwi-sync/license",
   "post_order": 1,
   "platform_targets": [
     "threads",
@@ -23,7 +23,7 @@
   ],
   "cta": {
     "label": "Start a license inquiry",
-    "url": "https://cumulativewebinc.github.io/cwi-sync/license/"
+    "url": "https://cumulativewebinc.github.io/cwi-sync/license"
   },
   "honest_limits": "Inbound inquiries only. Licensing quotes are issued by CWI \u2014 the site never auto-issues licenses."
 }

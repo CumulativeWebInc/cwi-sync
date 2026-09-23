@@ -5,7 +5,7 @@ Inbound licensing funnel for the That Boy Hi Hat catalog. Three one-sheet PDFs (
 
 ## Live
 - App: https://cumulativewebinc.github.io/cwi-sync/
-- Try it: https://cumulativewebinc.github.io/cwi-sync/license/
+- Try it: https://cumulativewebinc.github.io/cwi-sync/license
 
 ## Features
 - 3 one-sheet PDFs (reproducible build via tools/build_one_sheets.py)
@@ -15,7 +15,7 @@ Inbound licensing funnel for the That Boy Hi Hat catalog. Three one-sheet PDFs (
 - Claim-verification doc tracing every public claim
 
 ## Machine-readable
-- license: https://cumulativewebinc.github.io/cwi-sync/license/
+- license: https://cumulativewebinc.github.io/cwi-sync/license
 - company_one_sheet: https://cumulativewebinc.github.io/cwi-sync/one-sheets/cwi-sync-company-one-sheet.pdf
 
 ## Honest limits
