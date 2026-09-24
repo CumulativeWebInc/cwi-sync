@@ -10,5 +10,6 @@
     "name": "Cumulative Web Inc",
     "url": "https://cumulativeweb.com/"
   },
-  "description": "Sync and licensing hub with one-sheet PDFs and an inbound-only license inquiry funnel."
+  "description": "Sync and licensing hub with one-sheet PDFs and an inbound-only license inquiry funnel.",
+  "schema_version": "1.0.0"
 }
