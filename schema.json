@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "CWI Sync / Licensing",
+  "url": "https://cumulativewebinc.github.io/cwi-sync/",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "author": {
+    "@type": "Organization",
+    "name": "Cumulative Web Inc",
+    "url": "https://cumulativeweb.com/"
+  },
+  "description": "Sync and licensing hub with one-sheet PDFs and an inbound-only license inquiry funnel."
+}
